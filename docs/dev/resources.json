@@ -1,0 +1,15 @@
+{
+  "sections": [
+    {
+      "title": "Основные технологии",
+      "rows": [
+        {
+          "label": "123",
+          "purpose": "3123123",
+          "link": "https://example.com",
+          "icon": "🔥"
+        }
+      ]
+    }
+  ]
+}
