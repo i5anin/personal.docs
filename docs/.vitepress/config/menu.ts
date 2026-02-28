@@ -19,6 +19,12 @@ export const nav: DefaultTheme.NavItem[] = [
         link: '/dev/',
         title: 'dev',
         details: 'Интеграции, промпты, API и примеры рабочих сценариев.'
+    },
+    {
+        text: 'Жизнь',
+        link: '/life/',
+        title: 'life',
+        details: 'Жизнь'
     }
 
 ]
@@ -41,5 +47,6 @@ export const sidebar: DefaultTheme.Sidebar = [
         link: '/dev/',
         title: 'dev',
         details: 'Интеграции, промпты, API и примеры рабочих сценариев.'
-    }
+    },
+
 ]
