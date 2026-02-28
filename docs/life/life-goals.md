@@ -63,7 +63,7 @@
 
 ## 🏎 2. Купить Lamborghini
 
-![Lamborghini](https://img.icons8.com/fluency/96/sports-car.png)
+![Lamborghini](./1200x900.webp)
 
 ### 🎯 Цель
 
@@ -114,7 +114,7 @@
 
 ## 🏁 3. Купить Nissan GT-R
 
-![GTR](https://img.icons8.com/fluency/96/car--v1.png)
+![GTR](./maxresdefault.webp)
 
 ### 🎯 Цель
 
