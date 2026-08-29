@@ -114,7 +114,7 @@
 
 ## 🏁 3. Купить Nissan GT-R
 
-![GTR](./maxresdefault.webp)
+![GTR](./53e0de52e7.webp)
 
 ### 🎯 Цель
 
